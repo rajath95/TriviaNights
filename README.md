@@ -1,2 +1,2 @@
 # TriviaNights
-Video Conferencing based Trivia Night
+Video Conferencing based Trivia App
